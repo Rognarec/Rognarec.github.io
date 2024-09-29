@@ -1,0 +1,54 @@
+h1{
+	color: #990099;
+	font-size: 70px;
+	text-align: center;.kolker-brush-regular {
+
+}
+
+}
+body{
+	background-color: #000000;
+	font-family: "Kolker Brush", cursive;
+
+}
+p{
+	color: #990099;
+	font-size: 35px;
+	text-align: center;
+				
+
+}
+img{
+	width: 1000px;
+	height: 450px;
+	display: block;
+	margin: auto;
+
+}
+h3{
+	text-align: left;
+	color: #990099;
+	font-size: 60px;
+}
+h4{
+	text-align: left;
+	color: #990099;
+	font-size: 50px;
+}
+a{
+	color: #990099;
+	font-size: 30px;
+}
+h6{
+	text-align: left;
+	color: #990099;
+	font-size: 30px;
+}
+div{
+	margin: 0 auto;
+	width: 50%;
+}
+div img{
+width: 1000px;
+height: 450px;
+}
