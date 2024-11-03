@@ -1,0 +1,129 @@
+div{
+	width: 850px;
+	height: 750px;
+	background-color: #ffffff;
+	margin: 10px;
+	background-size: cover;
+	background-position: center;
+	transition: 1.5s;
+}
+body{
+	background-color: #440B55;
+	font-family: "Kolker Brush", cursive;
+
+}
+h1{
+	color: #FFFFFF;
+	font-size: 70px;
+	text-align: center;
+	width: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;	
+	box-sizing: border-box;
+}
+main{
+	width: 70%;
+	background-color: #000000;
+	margin: auto;
+	padding: 50x;	
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.photo1{
+	background-image: url(img/q.webp);
+}
+.photo2{
+background-image: url(img/w.jpg)
+}
+.photo3{
+background-image: url(img/e.jpg)
+}
+.photo4{
+background-image: url(img/r.jpg)
+}
+.photo5{
+background-image: url(img/t.jpg)
+}
+.photo6{
+background-image: url(img/y.jpg)
+}
+.photo7{
+background-image: url(img/u.jpg)
+}
+.photo8{
+background-image: url(img/i.webp)
+}
+.photo9{
+background-image: url(img/o.jpg)
+}
+.photo10{
+background-image: url(img/p.jpg)
+}
+.photo11{
+background-image: url(img/a.jpg)
+}
+.photo12{
+background-image: url(img/s.webp)
+}
+.photo13{
+background-image: url(img/d.webp)
+}
+.photo14{
+background-image: url(img/f.webp)
+}
+.photo15{
+background-image: url(img/g.webp)
+}
+.photo16{
+background-image: url(img/h.jpg)
+}
+.photo17{
+background-image: url(img/j.webp)
+}
+.photo18{
+background-image: url(img/k.webp)
+}
+.photo19{
+background-image: url(img/l2.jpg)
+}
+.photo20{
+background-image: url(img/;.webp)
+}
+.photo21{
+background-image: url(img/z.jpg)
+}
+.photo22{
+background-image: url(img/x.jpg)
+}
+.photo23{
+background-image: url(img/c.webp)
+}
+.photo24{
+background-image: url(img/v.webp)
+}
+.photo25{
+background-image: url(img/b.webp)
+}
+.photo26{
+background-image: url(img/n.webp)
+}
+.photo27{
+background-image: url(img/m.jpg)
+}
+.photo28{
+background-image: url(img/,.jpg)
+}
+.photo29{
+background-image: url(img/9.jpg)
+}
+.photo30{
+	background-image: url(img/10.jpg)
+}
+div:hover{
+	transform: scale(1.3) rotate(5deg);
+	transition: 1.5s;
+}

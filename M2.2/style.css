@@ -1,0 +1,32 @@
+.img-box{
+	column-count: 4;
+	padding: 20px;
+	margin: auto;
+}
+body{
+	background-color: #000000;
+	font-family: "Kolker Brush", cursive;
+
+}
+.image{
+	max-width: 100%;
+	display: block;
+	opacity: 0.6;
+}
+.image:hover{
+	opacity: 1;
+	transition: 3S;
+}
+.image + .image{
+	margin: 20px;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+.heading{
+	font-size: 50px;
+	wwww
+	color: #990099;
+	margin: 30px;
+}
